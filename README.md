@@ -8,8 +8,8 @@ This project presents a detailed analysis of credit card transactions and custom
 
 ## Dashboard Overview
 The Project includes 2 dashboards:
-1. ** Credit Card Transaction report.**
-2. ** Credit Card Customer Report.**
+1. **Credit Card Transaction report.**
+2. **Credit Card Customer Report.**
 
 Both Dashboard highlights trends in:
 - Revenue Generation.
